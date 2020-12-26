@@ -32,7 +32,7 @@ code_test_vue
 -- config # some configuration files for this project
 -- node_modules # dependencies for this project
 -- src # code for this project
-   -- axios functions
+   -- api # axios functions
    -- assets # some static resource files
    -- components # component files
    -- router # router configuration
