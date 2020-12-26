@@ -25,10 +25,8 @@ npm install
 npm start
 ```
 
-
+## Project Structure
 ``` 
-Project Structure
-
 code_test_vue
 -- build # some configuration files for webpack, you don't have to change them
 -- config # some configuration files for this project
