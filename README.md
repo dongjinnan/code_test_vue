@@ -2,6 +2,18 @@
 
 > A Vue.js project
 
+## Operation Instruction
+```
+# clone 代码
+git clone https://github.com/dongjinnan/code_test_vue.git
+
+# 进入code_test_vue文件夹下，执行
+npm install
+npm start
+
+# 浏览器访问http://localhost:8080/
+```
+
 ## Build Setup
 
 ``` bash
